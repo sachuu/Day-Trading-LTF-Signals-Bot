@@ -1,0 +1,1 @@
+# Day-Trading-LTF-Signals-Bot-PineScript-
