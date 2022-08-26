@@ -5,7 +5,7 @@
 1. Navigate to TradingView.com
 2. Select an asset and navigate to **advanced chart**
 3. At the bottom of the page select **pine editor** and expand this section
-4. Copy/paste *script.pine* into pine-editor
+4. Copy/paste **script.pine** into pine-editor
 5. Select **Add to Chart** in the top right menu
 
 ## How it works
