@@ -8,6 +8,9 @@
 4. Copy/paste **script.pine** into pine-editor
 5. Select **Add to Chart** in the top right menu
 
+**Note:**
+*signals are ideal on the 15 min time frame*
+
 ## How it works
 The signal looks for two conditions based on **VWAP** and **Stoch RSI**. 
 
